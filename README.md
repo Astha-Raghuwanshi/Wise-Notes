@@ -4,4 +4,4 @@ Functionalities include:
 Adding, updating and deleting notes.
 Pin/unpin notes of your choice.
 Notes are sorted according to the DATE they have been added.
-Available at: https://schedule-peach.vercel.app/
+Available at: https://notes-app-three-wheat.vercel.app/
